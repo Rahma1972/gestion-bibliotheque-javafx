@@ -14,7 +14,7 @@ Projet réalisé dans le cadre de la matière Programmation orientée objet – 
 
 | Connexion | Tableau de bord |
 |---|---|
-| ![Connexion](screenshots/connexion.png) | ![Tableau de bord](screenshots/admin/tableau-de-bord.png) |
+| ![Connexion](screenshots/connexion.png) | ![Tableau de bord](screenshots/admin/tableau_de_bord.png) |
 
 | Gestion des médias | Recherche avancée |
 |---|---|
