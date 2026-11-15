@@ -14,15 +14,15 @@ Projet réalisé dans le cadre de la matière Programmation orientée objet – 
 
 | Connexion | Tableau de bord |
 |---|---|
-| ![Connexion](docs/screenshots/connexion.png) | ![Tableau de bord](docs/screenshots/admin/tableau-de-bord.png) |
+| ![Connexion](screenshots/connexion.png) | ![Tableau de bord](screenshots/admin/tableau-de-bord.png) |
 
 | Gestion des médias | Recherche avancée |
 |---|---|
-| ![Médias](docs/screenshots/admin/gestion-media.png) | ![Recherche](docs/screenshots/admin/recherche-avancee.png) |
+| ![Médias](screenshots/admin/gestion-media.png) | ![Recherche](screenshots/admin/recherche-avancee.png) |
 
 | Emprunts | Statistiques |
 |---|---|
-| ![Emprunts](docs/screenshots/admin/gestion-emprunts.png) | ![Statistiques](docs/screenshots/admin/statistiques.png) |
+| ![Emprunts](screenshots/admin/gestion-emprunts.png) | ![Statistiques](screenshots/admin/statistiques.png) |
 
 
 ## Fonctionnalités
